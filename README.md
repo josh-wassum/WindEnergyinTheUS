@@ -14,12 +14,10 @@ I used HTML, CSS and Javascript to create this application.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [ArcGIS](http://arcgis.com)
 * [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I would like to allow a user to filter by country.
 * I need to add some graphs to better detail data.
